@@ -1,0 +1,9 @@
+{
+  "name": "midnight-protocol",
+  "version": "2.0.0",
+  "description": "Midnight Protocol — solo and 5-player pixel-art village co-op browser game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.21.2", "socket.io": "^4.8.1" }
+}
